@@ -1,4 +1,4 @@
-# EcommerceStore
+# LojaVirtual
 # Loja Virtual com .NET 8 e React
 
 ## **Descrição do Desafio**
